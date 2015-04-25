@@ -1,4 +1,6 @@
-package com.example.iweather;
+package com.iweather.app;
+
+import com.example.iweather.R;
 
 import android.app.Activity;
 import android.os.Bundle;
